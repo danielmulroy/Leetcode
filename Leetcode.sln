@@ -23,27 +23,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0146.LRUCache", "146.LRUCac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0056.MergeIntervals", "56.MergeIntervals\0056.MergeIntervals.csproj", "{C26420DC-8081-4A30-A4EA-B2DC6516C99D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0206.ReverseLinkedList", "206.ReverseLinkedList\0206.ReverseLinkedList.csproj", "{A5928AB8-3D02-4C7B-B208-B246F4CBAB76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0206.ReverseLinkedList", "206.ReverseLinkedList\0206.ReverseLinkedList.csproj", "{A5928AB8-3D02-4C7B-B208-B246F4CBAB76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0092.ReverseLinkedListII", "92.ReverseLinkedListII\0092.ReverseLinkedListII.csproj", "{B4008504-A412-4D7F-9987-9B3F8D9E3F70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0092.ReverseLinkedListII", "92.ReverseLinkedListII\0092.ReverseLinkedListII.csproj", "{B4008504-A412-4D7F-9987-9B3F8D9E3F70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0200.NumberOfIslands", "200.NumberOfIslands\0200.NumberOfIslands.csproj", "{55B966BD-5543-4048-83A7-F65440C77E18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0200.NumberOfIslands", "200.NumberOfIslands\0200.NumberOfIslands.csproj", "{55B966BD-5543-4048-83A7-F65440C77E18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0393.UTF8Validation", "393.UTF8Validation\0393.UTF8Validation.csproj", "{27150B9E-F81B-4559-96A6-64CA9621073E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0393.UTF8Validation", "393.UTF8Validation\0393.UTF8Validation.csproj", "{27150B9E-F81B-4559-96A6-64CA9621073E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1909.CanOneBeRemovedToBeIncreasing", "1909.CanOneBeRemovedToBeIncreasing\1909.CanOneBeRemovedToBeIncreasing.csproj", "{6B468422-5AD0-4517-8D64-14E81F752095}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1909.CanOneBeRemovedToBeIncreasing", "1909.CanOneBeRemovedToBeIncreasing\1909.CanOneBeRemovedToBeIncreasing.csproj", "{6B468422-5AD0-4517-8D64-14E81F752095}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0733.FloodFill", "733.FloodFill\0733.FloodFill.csproj", "{69999252-0BD4-42B7-AA38-D0A2C03D206E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0733.FloodFill", "733.FloodFill\0733.FloodFill.csproj", "{69999252-0BD4-42B7-AA38-D0A2C03D206E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0811.SubdomainVisitCount", "811.SubdomainVisitCount\0811.SubdomainVisitCount.csproj", "{B4E4DA85-F179-4E40-A2F9-4B87C7D45075}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0811.SubdomainVisitCount", "811.SubdomainVisitCount\0811.SubdomainVisitCount.csproj", "{B4E4DA85-F179-4E40-A2F9-4B87C7D45075}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1319.NoOfOperationsToConnectNetwork", "1319.NoOfOperationsToConnectNetwork\1319.NoOfOperationsToConnectNetwork.csproj", "{8B37E063-E7B3-4FE5-A228-B3B939950DAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1319.NoOfOperationsToConnectNetwork", "1319.NoOfOperationsToConnectNetwork\1319.NoOfOperationsToConnectNetwork.csproj", "{8B37E063-E7B3-4FE5-A228-B3B939950DAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0723.CandyCrush", "723.CandyCrush\0723.CandyCrush.csproj", "{328AA1E0-2BEE-4507-AD46-F5A71817D9D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0723.CandyCrush", "723.CandyCrush\0723.CandyCrush.csproj", "{328AA1E0-2BEE-4507-AD46-F5A71817D9D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0539.MinimumTimeDifference", "539.MinimumTimeDifference\0539.MinimumTimeDifference.csproj", "{9ACD1D3B-C102-477B-9BAC-BF35374CC615}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0539.MinimumTimeDifference", "539.MinimumTimeDifference\0539.MinimumTimeDifference.csproj", "{9ACD1D3B-C102-477B-9BAC-BF35374CC615}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0072.EditDistance", "0072.EditDistance\0072.EditDistance.csproj", "{8C3E1F6F-BD66-4C02-8673-24B9D01425F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0072.EditDistance", "0072.EditDistance\0072.EditDistance.csproj", "{8C3E1F6F-BD66-4C02-8673-24B9D01425F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0236.LowestCommonBinaryTreeAncestor", "0236.LowestCommonBinaryTreeAncestor\0236.LowestCommonBinaryTreeAncestor.csproj", "{1A803310-845A-412F-8DB7-BCAD9FE7EC29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0718.MaxLengthOfRepeatedSubarray", "0718.MaxLengthOfRepeatedSubarray\0718.MaxLengthOfRepeatedSubarray.csproj", "{D760ABBE-D192-417D-96CE-A4F2D912621C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,14 @@ Global
 		{8C3E1F6F-BD66-4C02-8673-24B9D01425F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C3E1F6F-BD66-4C02-8673-24B9D01425F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C3E1F6F-BD66-4C02-8673-24B9D01425F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A803310-845A-412F-8DB7-BCAD9FE7EC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A803310-845A-412F-8DB7-BCAD9FE7EC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A803310-845A-412F-8DB7-BCAD9FE7EC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A803310-845A-412F-8DB7-BCAD9FE7EC29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D760ABBE-D192-417D-96CE-A4F2D912621C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D760ABBE-D192-417D-96CE-A4F2D912621C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D760ABBE-D192-417D-96CE-A4F2D912621C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D760ABBE-D192-417D-96CE-A4F2D912621C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
