@@ -21,15 +21,11 @@ public class Solution
             if (num[1] == '1')
             {
                 checkNext++;
-                if (num[2] == '1')
-                {
-                    checkNext++;
-                    if (num[3] == '1')
-                    {
-                        checkNext++;
-                        if (num[4] == '1') return false;
-                    }
-                }
+                if (num[2] != '1') continue;
+                checkNext++;
+                if (num[3] != '1') continue;
+                checkNext++;
+                if (num[4] == '1') return false;
             }
             else return false;
         }

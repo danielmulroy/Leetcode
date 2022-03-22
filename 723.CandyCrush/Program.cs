@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using _723.CandyCrush;
+
+var grid = new int[10][];
+grid[0] = new []{ 110, 5, 112, 113, 114 };
+grid[1] = new[] { 210, 211, 5, 213, 214 };
+grid[2] = new[] { 310, 311, 3, 313, 314 };
+grid[3] = new[] { 410, 411, 412, 5, 414 };
+grid[4] = new[] { 5, 1, 512, 3, 3 };
+grid[5] = new[] { 610, 4, 1, 613, 614 };
+grid[6] = new[] { 710, 1, 2, 713, 714 };
+grid[7] = new[] { 810, 1, 2, 1, 1};
+grid[8] = new[] { 1, 1, 2, 2, 2 };
+grid[9] = new[] { 4, 1, 4, 4, 1014 };
+
+Solution.CandyCrush(grid);
+
+//[[],[],[],[],[],[],[],],[],[]]
