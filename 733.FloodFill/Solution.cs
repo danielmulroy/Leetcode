@@ -69,9 +69,5 @@ public class Solution
         image[location.Y][location.X] = newCol;
     }
 
-    public record Coordinates(int X, int Y)
-    {
-        public int X = X;
-        public int Y = Y;
-    }
+    public record struct Coordinates(int X, int Y);
 }
